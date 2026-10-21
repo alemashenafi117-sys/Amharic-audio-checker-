@@ -1,4 +1,5 @@
-Amharic Audio Quality Checker
+ # Amharic Audio Quality Checker
+
 ​Final project for the Building AI course
 ​Summary
 ​The Amharic Audio Quality Checker is an AI-powered system designed to automatically evaluate the quality of Amharic speech recordings and their corresponding transcriptions. It identifies background noise, audio distortions, incomplete utterances, and transcription mismatches to assist reviewers and audio data platforms in maintaining high-quality datasets.
